@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sniqy
+- 👀 I’m interested in Networking, Basic coding, and Building Scenes
+- 🌱 I’m currently learning C++, C#, HTML, and some java
+- 📫 You can reach me on discord by Sniqy#5375
